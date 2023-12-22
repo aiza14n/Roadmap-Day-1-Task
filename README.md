@@ -3,7 +3,7 @@
 # (HTTP 1.1) and (HTTP/2)
 
 
-## What Is Mean By (HTTP 1.1) and (HTTP/2) ?
+## What Is Meant By (HTTP 1.1) and (HTTP/2) ?
 
 
 > HTTP/1.1:
@@ -36,7 +36,7 @@ Multiplexing: HTTP/2 allows multiple requests and responses to be multiplexed ov
 
 # OBJECTS AND ITS INTERNAL REPRESENTATION IN JAVASCRIPT
 
-## What Is Mean by Object In JavaScrpit ?
+## What Is Meant by Object In JavaScrpit ?
  In JavaScript, objects are a fundamental data type that allows you to store and organize data. They are used to represent and manipulate real-world entities by bundling related properties and methods together.
 
 ## The internal representation of objects in JavaScript is based on key-value pairs.
